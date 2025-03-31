@@ -37,4 +37,3 @@ Contributions are welcome! If you have any ideas to improve the site, feel free 
 
 ---
 
-Feel free to tweak this README file to align more closely with your specific goals or to add more details. If you want to include a screenshot of your website, you can upload an image file to your GitHub repo and link it in the README using Markdown.
